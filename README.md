@@ -1,4 +1,4 @@
-# Trabalho Individual 2 - Caminho Hamiltoniano - João Pedro Mairinque
+# Trabalho Individual 3 - Caminho Hamiltoniano - João Pedro Mairinque
 
 ## Algoritmo para Grafos 
 
@@ -16,7 +16,7 @@ Neste trabalho, analiso a aplicação de um algoritmo em python para encontrar u
   ```
 
 
-## Classificação (P, NP, NP-Completo, NP-Difícil):
+## Classificação (P, NP, NP-Completo, NP-Difícil)
 
 O Problema do Caminho Hamiltoniano é **NP-completo** para grafos dirigidos e não dirigidos. Isso significa que:
 
